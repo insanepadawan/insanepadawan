@@ -2,4 +2,4 @@
 - 👀 I’m interested in web-developing and machine learning
 - 🌱 I’m currently learning THREE.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord: Saika#6969;
+- 📫 discord: Saika#6969;
