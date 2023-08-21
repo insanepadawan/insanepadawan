@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @insanepadawan
-- 👀 I’m interested in web-developing and machine learning
-- 🌱 I’m currently learning THREE.js
-- 💞️ I’m looking to collaborate on 3d-model oriented web-projects
-- 📫 discord: Saika 彩加#9273;
+- 👀 I’m interested in web-developing and GameDev
+- 🌱 I’m currently learning Unity C#
+- 💞️ I’m looking to collaborate on anything related above
+- 📫 discord: saika.slayer;
